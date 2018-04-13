@@ -2,8 +2,10 @@
 MongoExpressReactNode web app starter template for rapid development that aims to provide a foundation for best practices in developing MERN apps.
 
 # Installation
+```
 chmod u+x build.sh
 ./build.sh
+```
 
 # Pre Development With CRA and Express
 MERN-me features create-react-app and express which each have their own development servers. This is problematic because of CORS issues.
@@ -75,7 +77,9 @@ if (process.env.NODE_ENV === 'production') {
 
 # Useful Links for Reference
 [create-react-app](https://github.com/facebook/create-react-app)
+
 [Express](https://expressjs.com/)
+
 [Mongoose](http://mongoosejs.com/)
 
 Cheers!

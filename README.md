@@ -75,6 +75,12 @@ if (process.env.NODE_ENV === 'production') {
 }
 ```
 
+# Running Your Project
+Navigate to the root of your project and run:
+```
+npm run dev
+```
+
 # Useful Links for Reference
 [create-react-app](https://github.com/facebook/create-react-app)
 
